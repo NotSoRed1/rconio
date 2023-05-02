@@ -24,4 +24,3 @@ just copy rconio.c and rconio.h to you project and include them
 - getch()  : getting input from the user.
 - ***************************************************************************************
 - get_terminal_infos(int* witdth, int *height)  : give you the the width and the height of the curr terminal.
-    - ps: you can make the function return all the terminal information you just need to make it return entire infos struct.
